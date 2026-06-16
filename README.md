@@ -89,6 +89,7 @@ pytest tests/ -v
 MIT
 
 
+
 ---
 
 ## Free vs Pro
@@ -109,8 +110,9 @@ MIT
 
 Get the full version with all premium features, priority support, and lifetime updates.
 
-**[Get Pro Version](https://lunarautomata.gumroad.com/l/ypzec)**
+**[Get Pro Version](https://buy.stripe.com/bJe9AT7r1bUEg8847qcZf3l)**
 
+- [Buy Now (Stripe)](https://buy.stripe.com/bJe9AT7r1bUEg8847qcZf3l)
 - [Buy on Gumroad](https://lunarautomata.gumroad.com/l/ypzec)
 - [Buy on Whop](https://whop.com/terraform-iac-document-generation-api)
 
